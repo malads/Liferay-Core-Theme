@@ -1,0 +1,49 @@
+<div class="header">
+  <div class='redbar'></div>
+  <div class='orangebar'></div>
+  <div class="bluebar">
+    <nav class="navbar" role="navigation">
+      <div class="navbar-header">
+        <div class="row-fluid">
+          <div class="span4">
+            <a href="/web/core/home"class="logo">
+              <img src="/DisasterMgmnt/images/core-logo.png" alt="Miami-Dade CORE"/>
+            </a>
+          </div>
+          <div class=" span8 navIcon">
+          	<div class="row-fluid">
+	              <div class="span3 right-border margin-top-25" >
+	                <a href="/web/core/important-information">
+	                  <div class="span3 nav-img"><img class="img-responsive"  src="/DisasterMgmnt/images/mic.png"/></div>
+	                  <div class="span9 nav-text">IMPORTANT <br> INFORMATION</div>
+	                </a>
+	              </div >
+	              <div class="span3 right-border margin-top-25" >
+	                <a href="/web/core/event-calendar">
+	                  <div class="span4 nav-img"><img class="img-responsive"  src="/DisasterMgmnt/images/calender.png" /></div>
+	                  <div class="span8 nav-text">EVENTS <br> CALENDAR</div>
+	                </a>
+	              </div >
+	              <div class="span3 right-border margin-top-25" >
+	                <a href="mailto:eoc@miamidade.gov?Subject=Miami-Dade%20C.O.R.E." target="_top">
+	                  <div class="span5 nav-img"> <img class="img-responsive"  src="/DisasterMgmnt/images/phone.png" /></div>
+	                  <div class="span7 nav-text">CONTACT US</div>
+	                </a>
+	              </div >
+	              <div class="span3" >
+	                <a class="nav-signin" href="https://community.miamidade.gov/DisasterMgmnt/login/auth_core" target="_blank">
+	                  <div class="span12"><img class="img-responsive"  src="/DisasterMgmnt/images/sign-in.png" /></div>
+	                </a>
+	              </div >
+	            </div>
+	      	</div>
+          </div>
+        </div> 
+      </div>
+    </nav>
+  </div>
+</div>
+<div class="banner">
+	<img src="$images_folder/application-banner.jpg" class="img-responsive"/>
+</div>
+
